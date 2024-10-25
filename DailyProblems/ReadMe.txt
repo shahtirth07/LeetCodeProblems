@@ -4,3 +4,4 @@
 4.cpp problem link : https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/?envType=daily-question&envId=2024-10-09
 5.cpp problme link : https://leetcode.com/problems/longest-happy-string/?envType=daily-question&envId=2024-10-16
 6.cpp problem link : https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
+7.cpp problem link : https://leetcode.com/problems/flip-equivalent-binary-trees/?envType=daily-question&envId=2024-10-24
