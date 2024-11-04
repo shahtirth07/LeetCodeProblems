@@ -5,3 +5,4 @@
 5.cpp problme link : https://leetcode.com/problems/longest-happy-string/?envType=daily-question&envId=2024-10-16
 6.cpp problem link : https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
 7.cpp problem link : https://leetcode.com/problems/flip-equivalent-binary-trees/?envType=daily-question&envId=2024-10-24
+8.cpp problem link : https://leetcode.com/problems/string-compression-iii/submissions/1443123570/?envType=daily-question&envId=2024-11-04
