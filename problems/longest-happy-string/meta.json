@@ -1,0 +1,19 @@
+{
+  "slug": "longest-happy-string",
+  "title": "Longest Happy String",
+  "number": 1405,
+  "url": "https://leetcode.com/problems/longest-happy-string/",
+  "source": "leetcode",
+  "tags": [
+    "daily-challenge",
+    "greedy",
+    "heap"
+  ],
+  "solutions": [
+    {
+      "language": "cpp",
+      "file": "solution.cpp"
+    }
+  ],
+  "visualization": null
+}

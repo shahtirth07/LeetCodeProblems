@@ -1,0 +1,18 @@
+{
+  "slug": "flip-equivalent-binary-trees",
+  "title": "Flip Equivalent Binary Trees",
+  "number": 951,
+  "url": "https://leetcode.com/problems/flip-equivalent-binary-trees/",
+  "source": "leetcode",
+  "tags": [
+    "daily-challenge",
+    "trees"
+  ],
+  "solutions": [
+    {
+      "language": "cpp",
+      "file": "solution.cpp"
+    }
+  ],
+  "visualization": null
+}

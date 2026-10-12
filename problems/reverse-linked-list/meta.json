@@ -1,0 +1,21 @@
+{
+  "slug": "reverse-linked-list",
+  "title": "Reverse Linked List",
+  "number": 206,
+  "url": "https://leetcode.com/problems/reverse-linked-list/",
+  "source": "leetcode",
+  "tags": [
+    "linked-list"
+  ],
+  "solutions": [
+    {
+      "language": "cpp",
+      "file": "solution.cpp"
+    },
+    {
+      "language": "cpp",
+      "file": "solution-recursive.cpp"
+    }
+  ],
+  "visualization": null
+}

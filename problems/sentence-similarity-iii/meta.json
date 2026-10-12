@@ -1,0 +1,18 @@
+{
+  "slug": "sentence-similarity-iii",
+  "title": "Sentence Similarity III",
+  "number": 1813,
+  "url": "https://leetcode.com/problems/sentence-similarity-iii/",
+  "source": "leetcode",
+  "tags": [
+    "daily-challenge",
+    "string"
+  ],
+  "solutions": [
+    {
+      "language": "cpp",
+      "file": "solution.cpp"
+    }
+  ],
+  "visualization": null
+}

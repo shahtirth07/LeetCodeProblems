@@ -1,0 +1,19 @@
+{
+  "slug": "daily-temperatures",
+  "title": "Daily Temperatures",
+  "number": 739,
+  "url": "https://leetcode.com/problems/daily-temperatures/",
+  "source": "leetcode",
+  "tags": [
+    "misc",
+    "stack",
+    "array"
+  ],
+  "solutions": [
+    {
+      "language": "cpp",
+      "file": "solution.cpp"
+    }
+  ],
+  "visualization": null
+}

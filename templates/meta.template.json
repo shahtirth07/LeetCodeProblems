@@ -1,0 +1,12 @@
+{
+  "slug": "problem-slug",
+  "title": "Problem Title",
+  "number": null,
+  "url": "https://leetcode.com/problems/problem-slug/",
+  "source": "leetcode",
+  "tags": [],
+  "solutions": [
+    { "language": "cpp", "file": "solution.cpp" }
+  ],
+  "visualization": null
+}

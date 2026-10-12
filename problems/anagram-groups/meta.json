@@ -1,0 +1,18 @@
+{
+  "slug": "anagram-groups",
+  "title": "Anagram Groups",
+  "number": null,
+  "url": "https://neetcode.io/problems/anagram-groups",
+  "source": "neetcode",
+  "tags": [
+    "misc",
+    "hash-table"
+  ],
+  "solutions": [
+    {
+      "language": "cpp",
+      "file": "solution.cpp"
+    }
+  ],
+  "visualization": null
+}
