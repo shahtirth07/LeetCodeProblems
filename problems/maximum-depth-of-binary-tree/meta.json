@@ -1,0 +1,18 @@
+{
+  "slug": "maximum-depth-of-binary-tree",
+  "title": "Maximum Depth of Binary Tree",
+  "number": 104,
+  "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+  "source": "leetcode",
+  "tags": [
+    "trees",
+    "dfs"
+  ],
+  "solutions": [
+    {
+      "language": "cpp",
+      "file": "solution.cpp"
+    }
+  ],
+  "visualization": null
+}

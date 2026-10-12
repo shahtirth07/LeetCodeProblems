@@ -1,0 +1,19 @@
+{
+  "slug": "missing-number",
+  "title": "Missing Number",
+  "number": 268,
+  "url": "https://leetcode.com/problems/missing-number/",
+  "source": "leetcode",
+  "tags": [
+    "misc",
+    "array",
+    "bit-manipulation"
+  ],
+  "solutions": [
+    {
+      "language": "cpp",
+      "file": "solution.cpp"
+    }
+  ],
+  "visualization": null
+}

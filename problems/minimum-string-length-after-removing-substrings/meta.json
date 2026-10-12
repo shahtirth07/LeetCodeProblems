@@ -1,0 +1,18 @@
+{
+  "slug": "minimum-string-length-after-removing-substrings",
+  "title": "Minimum String Length After Removing Substrings",
+  "number": null,
+  "url": "https://leetcode.com/problems/minimum-string-length-after-removing-substrings/",
+  "source": "leetcode",
+  "tags": [
+    "daily-challenge",
+    "stack"
+  ],
+  "solutions": [
+    {
+      "language": "cpp",
+      "file": "solution.cpp"
+    }
+  ],
+  "visualization": null
+}

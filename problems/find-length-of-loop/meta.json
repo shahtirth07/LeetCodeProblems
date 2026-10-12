@@ -1,0 +1,18 @@
+{
+  "slug": "find-length-of-loop",
+  "title": "Find Length of Loop",
+  "number": null,
+  "url": "https://www.geeksforgeeks.org/problems/find-length-of-loop/1",
+  "source": "gfg",
+  "tags": [
+    "linked-list",
+    "two-pointers"
+  ],
+  "solutions": [
+    {
+      "language": "cpp",
+      "file": "solution.cpp"
+    }
+  ],
+  "visualization": null
+}

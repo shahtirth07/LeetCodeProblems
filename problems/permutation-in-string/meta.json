@@ -1,0 +1,18 @@
+{
+  "slug": "permutation-in-string",
+  "title": "Permutation in String",
+  "number": 567,
+  "url": "https://leetcode.com/problems/permutation-in-string/",
+  "source": "leetcode",
+  "tags": [
+    "daily-challenge",
+    "sliding-window"
+  ],
+  "solutions": [
+    {
+      "language": "cpp",
+      "file": "solution.cpp"
+    }
+  ],
+  "visualization": null
+}

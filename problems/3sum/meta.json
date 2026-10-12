@@ -1,0 +1,19 @@
+{
+  "slug": "3sum",
+  "title": "3Sum",
+  "number": 15,
+  "url": "https://leetcode.com/problems/3sum/",
+  "source": "leetcode",
+  "tags": [
+    "misc",
+    "two-pointers",
+    "array"
+  ],
+  "solutions": [
+    {
+      "language": "cpp",
+      "file": "solution.cpp"
+    }
+  ],
+  "visualization": null
+}

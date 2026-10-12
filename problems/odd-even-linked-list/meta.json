@@ -1,0 +1,17 @@
+{
+  "slug": "odd-even-linked-list",
+  "title": "Odd Even Linked List",
+  "number": 328,
+  "url": "https://leetcode.com/problems/odd-even-linked-list/",
+  "source": "leetcode",
+  "tags": [
+    "linked-list"
+  ],
+  "solutions": [
+    {
+      "language": "cpp",
+      "file": "solution.cpp"
+    }
+  ],
+  "visualization": null
+}

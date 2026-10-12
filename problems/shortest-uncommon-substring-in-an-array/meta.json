@@ -1,0 +1,19 @@
+{
+  "slug": "shortest-uncommon-substring-in-an-array",
+  "title": "Shortest Uncommon Substring in an Array",
+  "number": 2904,
+  "url": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/",
+  "source": "leetcode",
+  "tags": [
+    "misc",
+    "string",
+    "trie"
+  ],
+  "solutions": [
+    {
+      "language": "cpp",
+      "file": "solution.cpp"
+    }
+  ],
+  "visualization": null
+}

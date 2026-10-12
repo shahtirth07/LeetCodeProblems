@@ -1,0 +1,18 @@
+{
+  "slug": "minimum-add-to-make-parentheses-valid",
+  "title": "Minimum Add to Make Parentheses Valid",
+  "number": 921,
+  "url": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+  "source": "leetcode",
+  "tags": [
+    "daily-challenge",
+    "stack"
+  ],
+  "solutions": [
+    {
+      "language": "cpp",
+      "file": "solution.cpp"
+    }
+  ],
+  "visualization": null
+}

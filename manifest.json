@@ -1,0 +1,466 @@
+{
+  "problems": [
+    {
+      "slug": "add-two-numbers",
+      "title": "Add Two Numbers",
+      "number": 2,
+      "url": "https://leetcode.com/problems/add-two-numbers/",
+      "source": "leetcode",
+      "tags": [
+        "linked-list"
+      ],
+      "solutions": [
+        {
+          "language": "cpp",
+          "file": "solution.cpp"
+        }
+      ],
+      "visualization": null,
+      "path": "problems/add-two-numbers"
+    },
+    {
+      "slug": "3sum",
+      "title": "3Sum",
+      "number": 15,
+      "url": "https://leetcode.com/problems/3sum/",
+      "source": "leetcode",
+      "tags": [
+        "misc",
+        "two-pointers",
+        "array"
+      ],
+      "solutions": [
+        {
+          "language": "cpp",
+          "file": "solution.cpp"
+        }
+      ],
+      "visualization": null,
+      "path": "problems/3sum"
+    },
+    {
+      "slug": "binary-tree-level-order-traversal",
+      "title": "Binary Tree Level Order Traversal",
+      "number": 102,
+      "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+      "source": "leetcode",
+      "tags": [
+        "trees",
+        "bfs"
+      ],
+      "solutions": [
+        {
+          "language": "cpp",
+          "file": "solution.cpp"
+        }
+      ],
+      "visualization": null,
+      "path": "problems/binary-tree-level-order-traversal"
+    },
+    {
+      "slug": "maximum-depth-of-binary-tree",
+      "title": "Maximum Depth of Binary Tree",
+      "number": 104,
+      "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+      "source": "leetcode",
+      "tags": [
+        "trees",
+        "dfs"
+      ],
+      "solutions": [
+        {
+          "language": "cpp",
+          "file": "solution.cpp"
+        }
+      ],
+      "visualization": null,
+      "path": "problems/maximum-depth-of-binary-tree"
+    },
+    {
+      "slug": "balanced-binary-tree",
+      "title": "Balanced Binary Tree",
+      "number": 110,
+      "url": "https://leetcode.com/problems/balanced-binary-tree/",
+      "source": "leetcode",
+      "tags": [
+        "trees",
+        "dfs"
+      ],
+      "solutions": [
+        {
+          "language": "cpp",
+          "file": "solution.cpp"
+        }
+      ],
+      "visualization": null,
+      "path": "problems/balanced-binary-tree"
+    },
+    {
+      "slug": "linked-list-cycle",
+      "title": "Linked List Cycle",
+      "number": 141,
+      "url": "https://leetcode.com/problems/linked-list-cycle/",
+      "source": "leetcode",
+      "tags": [
+        "linked-list",
+        "two-pointers"
+      ],
+      "solutions": [
+        {
+          "language": "cpp",
+          "file": "solution.cpp"
+        }
+      ],
+      "visualization": null,
+      "path": "problems/linked-list-cycle"
+    },
+    {
+      "slug": "linked-list-cycle-ii",
+      "title": "Linked List Cycle II",
+      "number": 142,
+      "url": "https://leetcode.com/problems/linked-list-cycle-ii/",
+      "source": "leetcode",
+      "tags": [
+        "linked-list",
+        "two-pointers"
+      ],
+      "solutions": [
+        {
+          "language": "cpp",
+          "file": "solution.cpp"
+        }
+      ],
+      "visualization": null,
+      "path": "problems/linked-list-cycle-ii"
+    },
+    {
+      "slug": "reverse-linked-list",
+      "title": "Reverse Linked List",
+      "number": 206,
+      "url": "https://leetcode.com/problems/reverse-linked-list/",
+      "source": "leetcode",
+      "tags": [
+        "linked-list"
+      ],
+      "solutions": [
+        {
+          "language": "cpp",
+          "file": "solution.cpp"
+        },
+        {
+          "language": "cpp",
+          "file": "solution-recursive.cpp"
+        }
+      ],
+      "visualization": null,
+      "path": "problems/reverse-linked-list"
+    },
+    {
+      "slug": "palindrome-linked-list",
+      "title": "Palindrome Linked List",
+      "number": 234,
+      "url": "https://leetcode.com/problems/palindrome-linked-list/",
+      "source": "leetcode",
+      "tags": [
+        "linked-list",
+        "two-pointers"
+      ],
+      "solutions": [
+        {
+          "language": "cpp",
+          "file": "solution.cpp"
+        }
+      ],
+      "visualization": null,
+      "path": "problems/palindrome-linked-list"
+    },
+    {
+      "slug": "missing-number",
+      "title": "Missing Number",
+      "number": 268,
+      "url": "https://leetcode.com/problems/missing-number/",
+      "source": "leetcode",
+      "tags": [
+        "misc",
+        "array",
+        "bit-manipulation"
+      ],
+      "solutions": [
+        {
+          "language": "cpp",
+          "file": "solution.cpp"
+        }
+      ],
+      "visualization": null,
+      "path": "problems/missing-number"
+    },
+    {
+      "slug": "odd-even-linked-list",
+      "title": "Odd Even Linked List",
+      "number": 328,
+      "url": "https://leetcode.com/problems/odd-even-linked-list/",
+      "source": "leetcode",
+      "tags": [
+        "linked-list"
+      ],
+      "solutions": [
+        {
+          "language": "cpp",
+          "file": "solution.cpp"
+        }
+      ],
+      "visualization": null,
+      "path": "problems/odd-even-linked-list"
+    },
+    {
+      "slug": "permutation-in-string",
+      "title": "Permutation in String",
+      "number": 567,
+      "url": "https://leetcode.com/problems/permutation-in-string/",
+      "source": "leetcode",
+      "tags": [
+        "daily-challenge",
+        "sliding-window"
+      ],
+      "solutions": [
+        {
+          "language": "cpp",
+          "file": "solution.cpp"
+        }
+      ],
+      "visualization": null,
+      "path": "problems/permutation-in-string"
+    },
+    {
+      "slug": "daily-temperatures",
+      "title": "Daily Temperatures",
+      "number": 739,
+      "url": "https://leetcode.com/problems/daily-temperatures/",
+      "source": "leetcode",
+      "tags": [
+        "misc",
+        "stack",
+        "array"
+      ],
+      "solutions": [
+        {
+          "language": "cpp",
+          "file": "solution.cpp"
+        }
+      ],
+      "visualization": null,
+      "path": "problems/daily-temperatures"
+    },
+    {
+      "slug": "middle-of-the-linked-list",
+      "title": "Middle of the Linked List",
+      "number": 876,
+      "url": "https://leetcode.com/problems/middle-of-the-linked-list/",
+      "source": "leetcode",
+      "tags": [
+        "linked-list",
+        "two-pointers"
+      ],
+      "solutions": [
+        {
+          "language": "cpp",
+          "file": "solution.cpp"
+        }
+      ],
+      "visualization": null,
+      "path": "problems/middle-of-the-linked-list"
+    },
+    {
+      "slug": "minimum-add-to-make-parentheses-valid",
+      "title": "Minimum Add to Make Parentheses Valid",
+      "number": 921,
+      "url": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+      "source": "leetcode",
+      "tags": [
+        "daily-challenge",
+        "stack"
+      ],
+      "solutions": [
+        {
+          "language": "cpp",
+          "file": "solution.cpp"
+        }
+      ],
+      "visualization": null,
+      "path": "problems/minimum-add-to-make-parentheses-valid"
+    },
+    {
+      "slug": "flip-equivalent-binary-trees",
+      "title": "Flip Equivalent Binary Trees",
+      "number": 951,
+      "url": "https://leetcode.com/problems/flip-equivalent-binary-trees/",
+      "source": "leetcode",
+      "tags": [
+        "daily-challenge",
+        "trees"
+      ],
+      "solutions": [
+        {
+          "language": "cpp",
+          "file": "solution.cpp"
+        }
+      ],
+      "visualization": null,
+      "path": "problems/flip-equivalent-binary-trees"
+    },
+    {
+      "slug": "longest-happy-string",
+      "title": "Longest Happy String",
+      "number": 1405,
+      "url": "https://leetcode.com/problems/longest-happy-string/",
+      "source": "leetcode",
+      "tags": [
+        "daily-challenge",
+        "greedy",
+        "heap"
+      ],
+      "solutions": [
+        {
+          "language": "cpp",
+          "file": "solution.cpp"
+        }
+      ],
+      "visualization": null,
+      "path": "problems/longest-happy-string"
+    },
+    {
+      "slug": "split-a-string-into-the-max-number-of-unique-substrings",
+      "title": "Split a String Into the Max Number of Unique Substrings",
+      "number": 1593,
+      "url": "https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/",
+      "source": "leetcode",
+      "tags": [
+        "backtracking"
+      ],
+      "solutions": [
+        {
+          "language": "cpp",
+          "file": "solution.cpp"
+        }
+      ],
+      "visualization": null,
+      "path": "problems/split-a-string-into-the-max-number-of-unique-substrings"
+    },
+    {
+      "slug": "sentence-similarity-iii",
+      "title": "Sentence Similarity III",
+      "number": 1813,
+      "url": "https://leetcode.com/problems/sentence-similarity-iii/",
+      "source": "leetcode",
+      "tags": [
+        "daily-challenge",
+        "string"
+      ],
+      "solutions": [
+        {
+          "language": "cpp",
+          "file": "solution.cpp"
+        }
+      ],
+      "visualization": null,
+      "path": "problems/sentence-similarity-iii"
+    },
+    {
+      "slug": "shortest-uncommon-substring-in-an-array",
+      "title": "Shortest Uncommon Substring in an Array",
+      "number": 2904,
+      "url": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/",
+      "source": "leetcode",
+      "tags": [
+        "misc",
+        "string",
+        "trie"
+      ],
+      "solutions": [
+        {
+          "language": "cpp",
+          "file": "solution.cpp"
+        }
+      ],
+      "visualization": null,
+      "path": "problems/shortest-uncommon-substring-in-an-array"
+    },
+    {
+      "slug": "anagram-groups",
+      "title": "Anagram Groups",
+      "number": null,
+      "url": "https://neetcode.io/problems/anagram-groups",
+      "source": "neetcode",
+      "tags": [
+        "misc",
+        "hash-table"
+      ],
+      "solutions": [
+        {
+          "language": "cpp",
+          "file": "solution.cpp"
+        }
+      ],
+      "visualization": null,
+      "path": "problems/anagram-groups"
+    },
+    {
+      "slug": "find-length-of-loop",
+      "title": "Find Length of Loop",
+      "number": null,
+      "url": "https://www.geeksforgeeks.org/problems/find-length-of-loop/1",
+      "source": "gfg",
+      "tags": [
+        "linked-list",
+        "two-pointers"
+      ],
+      "solutions": [
+        {
+          "language": "cpp",
+          "file": "solution.cpp"
+        }
+      ],
+      "visualization": null,
+      "path": "problems/find-length-of-loop"
+    },
+    {
+      "slug": "minimum-string-length-after-removing-substrings",
+      "title": "Minimum String Length After Removing Substrings",
+      "number": null,
+      "url": "https://leetcode.com/problems/minimum-string-length-after-removing-substrings/",
+      "source": "leetcode",
+      "tags": [
+        "daily-challenge",
+        "stack"
+      ],
+      "solutions": [
+        {
+          "language": "cpp",
+          "file": "solution.cpp"
+        }
+      ],
+      "visualization": null,
+      "path": "problems/minimum-string-length-after-removing-substrings"
+    },
+    {
+      "slug": "string-compression-iii",
+      "title": "String Compression III",
+      "number": null,
+      "url": "https://leetcode.com/problems/string-compression-iii/",
+      "source": "leetcode",
+      "tags": [
+        "daily-challenge",
+        "string",
+        "two-pointers"
+      ],
+      "solutions": [
+        {
+          "language": "cpp",
+          "file": "solution.cpp"
+        }
+      ],
+      "visualization": null,
+      "path": "problems/string-compression-iii"
+    }
+  ]
+}
